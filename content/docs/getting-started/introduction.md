@@ -14,7 +14,7 @@ Tina is optimized for next-gen JAMstack tools. It is written in JavaScript and e
 
 Tina currently supports React-based frameworks, including:
 
-* NextJS
+* NextJS!
 * Gatsby
 * Create-React-App
 
